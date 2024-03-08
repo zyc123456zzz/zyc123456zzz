@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zyc123456zzz
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning c++, qt,
-- 💞️ I’m looking to collaborate on c++ projects and some qt projects, welcome to contact with me!
+- 👋 Hi, I’m @zyc123456zzz,
+- 👀 I’m interested in c++, python,
+- 🌱 I’m currently learning PyTorch, c++,
+- 💞️ I’m looking to collaborate on c++ projects and some DL or RL projects, welcome to contact with me!
 - 📫 email me at 2375850344@qq.com!
 
 <!---
